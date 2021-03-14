@@ -3,7 +3,7 @@
     Assignment 2
 ||#
 
-; Coundn't figure out how to take input from user 
+
 
 (defun palindromep (list)
         (cond
